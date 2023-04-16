@@ -94,7 +94,7 @@
        }
        
        a {
-           display: inline-block;
+           display:vv inline-block;
            padding-left: 30px;
            padding-right: 30px;
            padding-bottom: 20px;
